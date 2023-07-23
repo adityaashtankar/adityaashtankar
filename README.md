@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaashtankar&label=Profile%20views&color=0e75b6&style=flat" alt="adityaashtankar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaashtankar" alt="adityaashtankar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/adityaashtankar2" target="blank"><img src="https://img.shields.io/twitter/follow/adityaashtankar2?logo=twitter&style=for-the-badge" alt="adityaashtankar2" /></a> </p>
-
 - 🔭 I’m currently working on **various taks.**
 
 - 🌱 I’m currently learning **MERN stack**
