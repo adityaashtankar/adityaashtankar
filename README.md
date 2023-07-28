@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaashtankar&label=Profile%20views&color=0e75b6&style=flat" alt="adityaashtankar" /> </p>
 
-- 🔭 I’m currently working on **various taks.**
+- 🔭 I’m currently working on **various web developer tasks.**
 
 - 🌱 I’m currently learning **MERN stack**
 
